@@ -14,6 +14,24 @@
 - **GitHub 镜像下载** — 内置多个 GitHub 镜像代理，方便国内用户下载 frpc 二进制文件
 - **TOML 配置生成** — 自动生成标准 frpc.toml 配置文件
 
+## 应用截图
+
+| 系统概览 | 服务器设置 |
+|:---:|:---:|
+| ![系统概览](screenshot/main.png) | ![服务器设置](screenshot/server.png) |
+
+| 代理规则 | 添加代理规则 |
+|:---:|:---:|
+| ![代理规则](screenshot/image.png) | ![添加代理规则](screenshot/add.png) |
+
+| 流量监控 | 运行日志 |
+|:---:|:---:|
+| ![流量监控](screenshot/image%20copy%202.png) | ![运行日志](screenshot/image%20copy%203.png) |
+
+| 应用设置 | 状态栏菜单 |
+|:---:|:---:|
+| ![应用设置](screenshot/image%20copy%204.png) | ![状态栏菜单](screenshot/statusbar.png) |
+
 ## 系统要求
 
 - macOS 13.0 (Ventura) 及以上版本
