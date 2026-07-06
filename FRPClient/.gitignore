@@ -1,0 +1,11 @@
+# FRP source code (cloned at build time)
+frp-src/
+
+# Xcode
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+DerivedData/
+build/
+
+# macOS
+.DS_Store
